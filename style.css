@@ -1,0 +1,27 @@
+.backgound-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 726px;
+    width: 1520px;
+    color: grey;
+  }
+
+  .header {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+  }
+
+.top-links{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
